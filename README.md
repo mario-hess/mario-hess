@@ -5,4 +5,3 @@
 
 ### Stats
 [![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-hess&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mario-hess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
